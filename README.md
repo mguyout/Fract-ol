@@ -16,10 +16,10 @@ $> ./fractol Julia/Mandelbrot/Burning_Ship
 ## Exemples imagés
 
 ### Julia
-<img src="./img/fractol1.png" width="690" height="697" alt="Reflexion 1">
+<img src="./img/Fractol1.png" width="690" height="697" alt="Reflexion 1">
 
 ### Mandelbrot
-<img src="./img/fractol2.png" width="693" height="696" alt="Reflexion 2">
+<img src="./img/Fractol2.png" width="693" height="696" alt="Reflexion 2">
 
 ### Burning_Ship
-<img src="./img/fractol3.png" width="694" height="692" alt="Reflexion 1">
+<img src="./img/Fractol3.png" width="694" height="692" alt="Reflexion 1">
